@@ -1,5 +1,5 @@
 # the-ultimeme
-## Most recent updates: new png diagram (still in comic sans, don't worry), example in readme utilizing nihilism and the golden rule
+## Most recent updates: sports, less narcissism
 
 I’ve been trying to figure out what topic to write this about, and it’s finally clicked: Language. Rules. Systems. Logic.
 
@@ -11,7 +11,7 @@ The basis of this theory is that Nihilism is the ultimate truth (defining a null
 
 Here’s another even simpler way to think of this idea: sports and not-sports. In order to define sports, you can start abstracting out everything that’s not-sports, and once you’re finished doing that, what you’re left with is “sports”. So the “null” in “null/not-null” is a variable, and in this case, “sports” is just as defined by its relationship with “not-sports” as it is “sports”; the negative values are arguably greater and more important than the positive ones.
 
-My primary inspirations were Dan Harmon’s Story Circle, and Joseph Campbell’s Hero’s Journey. Both are perfect examples of drawing a circle around a concept (creating a null) and defining it by everything else (not-null). 
+My primary inspirations were Dan Harmon’s Story Circle, and Joseph Campbell’s Hero’s Journey. Both are perfect examples of drawing a circle around a concept (creating a null) and defining it by everything else (not-null). In their case, they were defining "story" and "not-story".
 
 0 = null; which allows for 0 = 1.
 

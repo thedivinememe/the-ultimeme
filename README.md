@@ -1,5 +1,7 @@
 # the-ultimeme
 
+## Most recent updates: new png diagram (still in comic sans, don't worry), example in readme utilizing nihilism and the golden rule
+
 I’ve been trying to figure out what topic to write this about, and it’s finally clicked: Language. Rules. Systems.
 
 I don’t have the traditional qualifications that you would think of when you picture a successful software dev, but I do have some amount of education in a lot of languages:

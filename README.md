@@ -29,3 +29,8 @@ Until now, we’ve been defining our binary language, 0’s and 1’s, as False 
 My primary inspirations were Dan Harmon’s Story Circle, and Joseph Campbell’s Hero’s Journey. Both are perfect examples of drawing a circle around a concept (creating a null) and defining it by everything else (not-null). 
 
 0 = null; which allows for 0 = 1.
+
+I've been told to sign this, which seems silly, because it's like signing math. 
+
+Discovered by Brandon Maxwell Welner
+https://www.linkedin.com/in/brandonwelner/

@@ -1,5 +1,5 @@
 # the-ultimeme
-## Most recent updates: sports, less narcissism
+## Most recent updates: more hotdogs, less narcissism
 
 I’ve been trying to figure out what topic to write this about, and it’s finally clicked: Language. Rules. Systems. Logic.
 
@@ -10,6 +10,8 @@ Until now, we’ve been defining our binary language, 0’s and 1’s, as False 
 The basis of this theory is that Nihilism is the ultimate truth (defining a null) and that choosing to believe in humanity despite that truth is the basis of what a utopian society is built on, or The Golden Rule (defining the not-null). It's been defined over and over by every faith and ideology, but because they're running on different systems and rules, they're talking different languages (1's and 0's), so they aren't able to understand that everyone wants the same thing.
 
 Here’s another even simpler way to think of this idea: sports and not-sports. In order to define sports, you can start abstracting out everything that’s not-sports, and once you’re finished doing that, what you’re left with is “sports”. So the “null” in “null/not-null” is a variable, and in this case, “sports” is just as defined by its relationship with “not-sports” as it is “sports”; the negative values are arguably greater and more important than the positive ones.
+
+ Null/not-null in silicon valley: https://www.youtube.com/watch?v=vIci3C4JkL0&ab_channel=vietanhle 
 
 My primary inspirations were Dan Harmon’s Story Circle, and Joseph Campbell’s Hero’s Journey. Both are perfect examples of drawing a circle around a concept (creating a null) and defining it by everything else (not-null). In their case, they were defining "story" and "not-story".
 

@@ -1,5 +1,7 @@
 # the-ultimeme
-## Most recent updates: more hotdogs, less narcissism
+## Most recent updates: added in a paper
+
+2/22/24 - I added in a first attempt at a paper.
 
 I’ve been trying to figure out what topic to write this about, and it’s finally clicked: Language. Rules. Systems. Logic.
 
@@ -13,7 +15,7 @@ Here’s another even simpler way to think of this idea: sports and not-sports. 
 
  Null/not-null in silicon valley: https://www.youtube.com/watch?v=vIci3C4JkL0&ab_channel=vietanhle 
 
-My primary inspirations were Dan Harmon’s Story Circle, and Joseph Campbell’s Hero’s Journey. Both are perfect examples of drawing a circle around a concept (creating a null) and defining it by everything else (not-null). In their case, they were defining "story" and "not-story".
+My primary inspirations were Dan Harmon’s Story Circle, and Joseph Campbell’s Monomyth. Both are perfect examples of drawing a circle around a concept (creating a null) and defining it by everything else (not-null). In their case, they were defining "story" and "not-story".
 
 0 = null; which allows for 0 = 1.
 

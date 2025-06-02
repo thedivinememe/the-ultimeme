@@ -1,5 +1,7 @@
 # the-ultimeme
-## Most recent updates: added in a paper
+## Most recent updates: added in axioms
+
+6/2/25 - Added in unified axioms
 
 2/22/24 - I added in a first attempt at a paper.
 
